@@ -101,19 +101,11 @@
 
         <h4 class="Let's Make">Let's Make Your Best Trip Ever</h4>
 
-        <h4> welcpome </h4>
+        <h4>Kalib Bhaiya</h4>
 
-        <h4>hi gaurav</h4>
+       <h4>Munna bhaiya</h4>
 
-        <h4>sidh</h4>
-
-        <h4>bye bye</h4>
-
-        <h4>kem chooo</h4>
-
-        <h4>Keee hal hai </h4>
-
-        <h4>Munna bhaiya</h4>
+       <h4>Gudhu Pandit</h4>
 
 
 
