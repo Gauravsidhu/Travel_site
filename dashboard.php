@@ -103,10 +103,11 @@
 
         <h4>Kalib Bhaiya</h4>
 
-       <h4>Munna bhaiya</h4>
+        <h4>Munna bhaiya</h4>
 
-       <h4>Gudhu Pandit</h4>
+        <h4>Gudhu Pandit</h4>
 
+        <h4>Gaurav Sidhu</h4>
 
 
         <p class="Plan and book">Plan and book your perfect trip with expert advice, travel tips, destination</p>
